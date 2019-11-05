@@ -9,4 +9,5 @@ def main():
           ext_modules=[Extension("fputs", ["mn.c"])])
 
 if __name__ == "__main__":
+    main()
   
